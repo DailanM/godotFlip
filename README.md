@@ -13,7 +13,7 @@ FLipping is done with large lookup tables, to minimize divergence. The scratchwo
 
 ### Current Limitations / TODO
 
-- It's not very good at it's job!
+- It's not very good at it's job! The current seed gives a point set that gets stuck very quickly. It looks like a 4-4 flip would help a lot.
 
 - I think there are likely errors in my table, and I need to make some tests to find them. A good place to start would be to ensure each tetrahedron is actually oriented correctly in space (not just abstractly).
 
