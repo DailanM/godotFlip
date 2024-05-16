@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c7yku5yj3yyc3"
+path="res://.godot/imported/exactSplitLocate.glsl-07894cb60b56375fbc0b2f99b8219d0b.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/split/exactSplitLocate.glsl"
+dest_files=["res://.godot/imported/exactSplitLocate.glsl-07894cb60b56375fbc0b2f99b8219d0b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wmwhp5gx7rwg"
+path="res://.godot/imported/positiveWriteSelf.glsl-8517bc5066f9305a347f68d3816b99bf.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/positiveWriteSelf.glsl"
+dest_files=["res://.godot/imported/positiveWriteSelf.glsl-8517bc5066f9305a347f68d3816b99bf.res"]
+
+[params]
+

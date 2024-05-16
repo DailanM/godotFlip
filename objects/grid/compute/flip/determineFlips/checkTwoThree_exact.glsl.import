@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bk32ncdmj73m"
+path="res://.godot/imported/checkTwoThree_exact.glsl-7c3aaca169b292e5c7f6d34f9745afe6.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/determineFlips/checkTwoThree_exact.glsl"
+dest_files=["res://.godot/imported/checkTwoThree_exact.glsl-7c3aaca169b292e5c7f6d34f9745afe6.res"]
+
+[params]
+

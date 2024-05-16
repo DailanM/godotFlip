@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://f8pk47n4talq"
+path="res://.godot/imported/compactActiveFaces.glsl-6693dbd1503037741e39fe84c0ca71b4.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/compactActiveFaces.glsl"
+dest_files=["res://.godot/imported/compactActiveFaces.glsl-6693dbd1503037741e39fe84c0ca71b4.res"]
+
+[params]
+

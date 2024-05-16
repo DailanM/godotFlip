@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://co8nt5hbniw13"
+path="res://.godot/imported/checkConvex_exact.glsl-da1809e7b009f94e35dff3e0a95c6297.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/determineFlips/checkConvex_exact.glsl"
+dest_files=["res://.godot/imported/checkConvex_exact.glsl-da1809e7b009f94e35dff3e0a95c6297.res"]
+
+[params]
+

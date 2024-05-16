@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ck42i0kk6emj5"
+path="res://.godot/imported/writePointsInFlips.glsl-26a6c4b5c42cda2bfda68e35a5359497.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/flipLocate/writePointsInFlips.glsl"
+dest_files=["res://.godot/imported/writePointsInFlips.glsl-26a6c4b5c42cda2bfda68e35a5359497.res"]
+
+[params]
+

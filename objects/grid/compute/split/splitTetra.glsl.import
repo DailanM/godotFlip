@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvxphesahyoay"
+path="res://.godot/imported/splitTetra.glsl-116f46ce8d33e856a79eebfebc252b38.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/split/splitTetra.glsl"
+dest_files=["res://.godot/imported/splitTetra.glsl-116f46ce8d33e856a79eebfebc252b38.res"]
+
+[params]
+

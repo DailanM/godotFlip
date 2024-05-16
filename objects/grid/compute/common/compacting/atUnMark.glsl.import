@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ds6caxqhsavdl"
+path="res://.godot/imported/atUnMark.glsl-dda40a7fb7a9ef9456eb5ac0f5a70577.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/atUnMark.glsl"
+dest_files=["res://.godot/imported/atUnMark.glsl-dda40a7fb7a9ef9456eb5ac0f5a70577.res"]
+
+[params]
+

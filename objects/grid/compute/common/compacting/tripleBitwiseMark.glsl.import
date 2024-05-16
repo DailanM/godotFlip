@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b4ik2ycmq28mh"
+path="res://.godot/imported/tripleBitwiseMark.glsl-cc1abbad913f14d071eaa90d769c5e0c.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/tripleBitwiseMark.glsl"
+dest_files=["res://.godot/imported/tripleBitwiseMark.glsl-cc1abbad913f14d071eaa90d769c5e0c.res"]
+
+[params]
+

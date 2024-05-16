@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://r7so1jo3r8uq"
+path="res://.godot/imported/checkDistanceMinimal.glsl-7a75dfd437c213855aa41f5ca16063d1.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/split/determineSplit/checkDistanceMinimal.glsl"
+dest_files=["res://.godot/imported/checkDistanceMinimal.glsl-7a75dfd437c213855aa41f5ca16063d1.res"]
+
+[params]
+

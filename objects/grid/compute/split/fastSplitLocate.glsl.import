@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bu15awrh45ntp"
+path="res://.godot/imported/fastSplitLocate.glsl-f2b9c06a9c64a350782da2aa8058149b.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/split/fastSplitLocate.glsl"
+dest_files=["res://.godot/imported/fastSplitLocate.glsl-f2b9c06a9c64a350782da2aa8058149b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dkskdim0s5j6y"
+path="res://.godot/imported/tripleBitwiseWriteSelf.glsl-af18c52cbf863842025709c2dd3a57c6.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/tripleBitwiseWriteSelf.glsl"
+dest_files=["res://.godot/imported/tripleBitwiseWriteSelf.glsl-af18c52cbf863842025709c2dd3a57c6.res"]
+
+[params]
+

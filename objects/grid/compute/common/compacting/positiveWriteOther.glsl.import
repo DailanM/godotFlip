@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://5pytjd67wptl"
+path="res://.godot/imported/positiveWriteOther.glsl-f20fd0380eaf18facc12b06ddc1ea65b.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/positiveWriteOther.glsl"
+dest_files=["res://.godot/imported/positiveWriteOther.glsl-f20fd0380eaf18facc12b06ddc1ea65b.res"]
+
+[params]
+

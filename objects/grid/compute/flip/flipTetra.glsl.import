@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bp6l6n8rkniux"
+path="res://.godot/imported/flipTetra.glsl-9df3ca0590b0cab1dad929ef64b08cdd.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/flipTetra.glsl"
+dest_files=["res://.godot/imported/flipTetra.glsl-9df3ca0590b0cab1dad929ef64b08cdd.res"]
+
+[params]
+

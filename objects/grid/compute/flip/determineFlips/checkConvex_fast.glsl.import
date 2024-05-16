@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://e1l6a5usjjfv"
+path="res://.godot/imported/checkConvex_fast.glsl-1e191c6e9d06e2bf64453261794459dd.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/determineFlips/checkConvex_fast.glsl"
+dest_files=["res://.godot/imported/checkConvex_fast.glsl-1e191c6e9d06e2bf64453261794459dd.res"]
+
+[params]
+

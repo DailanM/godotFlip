@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtfk4m1yar3j2"
+path="res://.godot/imported/freeSimplices.glsl-2169db915e199c4d3946571370a8273b.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/freeSimplices.glsl"
+dest_files=["res://.godot/imported/freeSimplices.glsl-2169db915e199c4d3946571370a8273b.res"]
+
+[params]
+

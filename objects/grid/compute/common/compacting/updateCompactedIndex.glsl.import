@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bi0ugqna5tcid"
+path="res://.godot/imported/updateCompactedIndex.glsl-47ee5c80da815a54bf8a2b354773b6b9.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/updateCompactedIndex.glsl"
+dest_files=["res://.godot/imported/updateCompactedIndex.glsl-47ee5c80da815a54bf8a2b354773b6b9.res"]
+
+[params]
+

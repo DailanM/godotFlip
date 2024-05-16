@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dc30g3304a222"
+path="res://.godot/imported/checkLocalDelaunay_fast.glsl-4edf642b5b085e49115cf6fc3629c759.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/checkLocalDelaunay/checkLocalDelaunay_fast.glsl"
+dest_files=["res://.godot/imported/checkLocalDelaunay_fast.glsl-4edf642b5b085e49115cf6fc3629c759.res"]
+
+[params]
+

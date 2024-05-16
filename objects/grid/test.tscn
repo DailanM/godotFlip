@@ -1,0 +1,36 @@
+[gd_scene load_steps=7 format=3 uid="uid://cj5e28wigcybt"]
+
+[ext_resource type="Script" path="res://objects/grid/scripts/NearDelauney.cs" id="1_u1uvh"]
+[ext_resource type="Script" path="res://temp_third_party/camera.gd" id="2_p32ga"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_mr1ft"]
+
+[sub_resource type="Sky" id="Sky_r5e2v"]
+sky_material = SubResource("ProceduralSkyMaterial_mr1ft")
+process_mode = 3
+
+[sub_resource type="Environment" id="Environment_jadvd"]
+background_mode = 2
+sky = SubResource("Sky_r5e2v")
+ambient_light_source = 3
+ambient_light_color = Color(1, 1, 1, 1)
+
+[sub_resource type="CameraAttributesPractical" id="CameraAttributesPractical_vm7pl"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="distribute" type="Node3D" parent="."]
+script = ExtResource("1_u1uvh")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.416789, 0, 0.909003, 0, 1, 0, -0.909003, 0, 0.416789, 11.1702, 0, 8.97926)
+script = ExtResource("2_p32ga")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_jadvd")
+camera_attributes = SubResource("CameraAttributesPractical_vm7pl")
+
+[node name="LightmapGI" type="LightmapGI" parent="."]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.283781, 0.958889, 0, -0.958889, 0.283781, 0, 0, 0)

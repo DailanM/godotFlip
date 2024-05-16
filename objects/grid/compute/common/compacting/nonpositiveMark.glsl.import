@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ykvy4obthrs0"
+path="res://.godot/imported/nonpositiveMark.glsl-d7545e3c39ef640cccb0d478d307f7e4.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/nonpositiveMark.glsl"
+dest_files=["res://.godot/imported/nonpositiveMark.glsl-d7545e3c39ef640cccb0d478d307f7e4.res"]
+
+[params]
+

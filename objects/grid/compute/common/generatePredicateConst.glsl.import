@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dwaabtspe4h2u"
+path="res://.godot/imported/generatePredicateConst.glsl-7cde956c5383a2c48b2486ea455ce25a.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/generatePredicateConst.glsl"
+dest_files=["res://.godot/imported/generatePredicateConst.glsl-7cde956c5383a2c48b2486ea455ce25a.res"]
+
+[params]
+

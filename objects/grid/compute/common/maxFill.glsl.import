@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://u0bw1aj7kwph"
+path="res://.godot/imported/maxFill.glsl-a761160210d49e5d65a6547d77e67c43.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/maxFill.glsl"
+dest_files=["res://.godot/imported/maxFill.glsl-a761160210d49e5d65a6547d77e67c43.res"]
+
+[params]
+

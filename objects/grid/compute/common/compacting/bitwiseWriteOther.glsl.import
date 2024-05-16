@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://be18u7f43gkut"
+path="res://.godot/imported/bitwiseWriteOther.glsl-c5cc91eeb57ae4fafe76aa635dd638c0.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/bitwiseWriteOther.glsl"
+dest_files=["res://.godot/imported/bitwiseWriteOther.glsl-c5cc91eeb57ae4fafe76aa635dd638c0.res"]
+
+[params]
+

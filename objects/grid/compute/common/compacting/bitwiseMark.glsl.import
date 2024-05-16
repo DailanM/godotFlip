@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ds18767a6u8pr"
+path="res://.godot/imported/bitwiseMark.glsl-82b9d85dfb0647d75246157f234beb53.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/bitwiseMark.glsl"
+dest_files=["res://.godot/imported/bitwiseMark.glsl-82b9d85dfb0647d75246157f234beb53.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dcj6wr3e25y7c"
+path="res://.godot/imported/finalizeTetraMarkedFlip.glsl-7fba209b1daec23b51a84cdc8dfecc38.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/finalizeTetraMarkedFlip.glsl"
+dest_files=["res://.godot/imported/finalizeTetraMarkedFlip.glsl-7fba209b1daec23b51a84cdc8dfecc38.res"]
+
+[params]
+

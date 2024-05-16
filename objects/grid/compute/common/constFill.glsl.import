@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://jkkft267kdgu"
+path="res://.godot/imported/constFill.glsl-b40697c882c0be60b94fc73ba0b83b49.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/constFill.glsl"
+dest_files=["res://.godot/imported/constFill.glsl-b40697c882c0be60b94fc73ba0b83b49.res"]
+
+[params]
+

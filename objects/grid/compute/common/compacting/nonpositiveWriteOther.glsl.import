@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bra21i6jjrgjr"
+path="res://.godot/imported/nonpositiveWriteOther.glsl-3965d06885ede032540080570dc3b22d.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/nonpositiveWriteOther.glsl"
+dest_files=["res://.godot/imported/nonpositiveWriteOther.glsl-3965d06885ede032540080570dc3b22d.res"]
+
+[params]
+

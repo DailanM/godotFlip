@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dj2ftcoyu7tdi"
+path="res://.godot/imported/checkLocalDelaunay_adapt.glsl-500a27c7b6de6551db5ee21230cc3daa.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/checkLocalDelaunay/checkLocalDelaunay_adapt.glsl"
+dest_files=["res://.godot/imported/checkLocalDelaunay_adapt.glsl-500a27c7b6de6551db5ee21230cc3daa.res"]
+
+[params]
+

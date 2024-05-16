@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://0far42a1u8xs"
+path="res://.godot/imported/fastFlipLocate.glsl-461fac4ca3b05174c6e4b0774a035632.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/flipLocate/fastFlipLocate.glsl"
+dest_files=["res://.godot/imported/fastFlipLocate.glsl-461fac4ca3b05174c6e4b0774a035632.res"]
+
+[params]
+

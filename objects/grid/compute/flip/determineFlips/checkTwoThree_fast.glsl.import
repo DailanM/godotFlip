@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dye6xqhtf1l5n"
+path="res://.godot/imported/checkTwoThree_fast.glsl-f5692839b5e9d5e1724c299caef64c8a.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/determineFlips/checkTwoThree_fast.glsl"
+dest_files=["res://.godot/imported/checkTwoThree_fast.glsl-f5692839b5e9d5e1724c299caef64c8a.res"]
+
+[params]
+

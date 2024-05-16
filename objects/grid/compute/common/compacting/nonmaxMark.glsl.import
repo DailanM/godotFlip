@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cocn1jtwcw415"
+path="res://.godot/imported/nonmaxMark.glsl-6f96079d81b1f73d0065b67c867ab725.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/nonmaxMark.glsl"
+dest_files=["res://.godot/imported/nonmaxMark.glsl-6f96079d81b1f73d0065b67c867ab725.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsolajhndi1x6"
+path="res://.godot/imported/markPointsInFlips.glsl-632192883701d5fac5793ad8e10b8b5b.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/flipLocate/markPointsInFlips.glsl"
+dest_files=["res://.godot/imported/markPointsInFlips.glsl-632192883701d5fac5793ad8e10b8b5b.res"]
+
+[params]
+

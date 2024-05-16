@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxuowlesb2kg4"
+path="res://.godot/imported/dubletPositiveWriteOther.glsl-df38378b3d6dd9ee8d2c8520fe947d68.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/dubletPositiveWriteOther.glsl"
+dest_files=["res://.godot/imported/dubletPositiveWriteOther.glsl-df38378b3d6dd9ee8d2c8520fe947d68.res"]
+
+[params]
+

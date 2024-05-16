@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dl3lt8j24nxpg"
+path="res://.godot/imported/checkFlipOfTetra.glsl-3c8822c3b41b6889e42f4b31e263f5f5.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/pickFlips/checkFlipOfTetra.glsl"
+dest_files=["res://.godot/imported/checkFlipOfTetra.glsl-3c8822c3b41b6889e42f4b31e263f5f5.res"]
+
+[params]
+

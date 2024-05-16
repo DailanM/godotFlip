@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c0cot0fc34027"
+path="res://.godot/imported/compactIndeterminedTwoThree.glsl-14eeeac59925ee48a7a1879bcc6c13a4.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/determineFlips/compactIndeterminedTwoThree.glsl"
+dest_files=["res://.godot/imported/compactIndeterminedTwoThree.glsl-14eeeac59925ee48a7a1879bcc6c13a4.res"]
+
+[params]
+

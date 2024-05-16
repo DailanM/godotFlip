@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxi614ty1gk0e"
+path="res://.godot/imported/markSplittingPoints.glsl-36ac7e582808bc97423f5e050f2b6b12.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/split/determineSplit/markSplittingPoints.glsl"
+dest_files=["res://.godot/imported/markSplittingPoints.glsl-36ac7e582808bc97423f5e050f2b6b12.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dhaneqqoqfepi"
+path="res://.godot/imported/zeroFill.glsl-361d2b75ee7aded23a7b61a97659feec.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/zeroFill.glsl"
+dest_files=["res://.godot/imported/zeroFill.glsl-361d2b75ee7aded23a7b61a97659feec.res"]
+
+[params]
+

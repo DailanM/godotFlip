@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cm0cvh5xf1lr4"
+path="res://.godot/imported/exactFlipLocate.glsl-a7ed890e70740685bdec5714abe14c3d.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/flip/flipLocate/exactFlipLocate.glsl"
+dest_files=["res://.godot/imported/exactFlipLocate.glsl-a7ed890e70740685bdec5714abe14c3d.res"]
+
+[params]
+

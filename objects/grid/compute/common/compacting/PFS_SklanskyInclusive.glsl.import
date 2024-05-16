@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdwem86q8q11k"
+path="res://.godot/imported/PFS_SklanskyInclusive.glsl-3b3d00ba860c16dd6db574c4ea08f22f.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/PFS_SklanskyInclusive.glsl"
+dest_files=["res://.godot/imported/PFS_SklanskyInclusive.glsl-3b3d00ba860c16dd6db574c4ea08f22f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://i6036vgj0fyp"
+path="res://.godot/imported/positiveMark.glsl-4ccde9379ed9dd64af5df28331c3ca79.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/positiveMark.glsl"
+dest_files=["res://.godot/imported/positiveMark.glsl-4ccde9379ed9dd64af5df28331c3ca79.res"]
+
+[params]
+

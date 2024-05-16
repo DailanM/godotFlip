@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://deb1mfwika1wc"
+path="res://.godot/imported/nonmaxWriteSelf.glsl-e5a4021a8287c55cf7bf6cc2ddd0dcf1.res"
+
+[deps]
+
+source_file="res://objects/grid/compute/common/compacting/nonmaxWriteSelf.glsl"
+dest_files=["res://.godot/imported/nonmaxWriteSelf.glsl-e5a4021a8287c55cf7bf6cc2ddd0dcf1.res"]
+
+[params]
+

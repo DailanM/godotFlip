@@ -1,0 +1,1 @@
+All prefix sums are inclusive. The write step corrects for this.
