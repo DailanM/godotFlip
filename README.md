@@ -17,9 +17,9 @@ Flipping is done with large lookup tables, to minimize divergence. The scratchwo
 
 - I think there are likely errors in my table, and I need to make some tests to find them. A good place to start would be to ensure each tetrahedron is actually oriented correctly in space (not just abstractly).
 
-- My solution for the initial triangulation is messy. Right now we can't handle adding points that don't lie inside a currently instantiated tetrahedron, so I'm simply making a very big one to get things started.
+- My solution for the initial triangulation is messy. Right now we can't handle adding points that don't lie inside an instantiated tetrahedron, so I'm simply making a very big one to get things started.
 
-- The way I'm dealing with the data in the simplicial complex seems pretty memory ineffecient.
+- The way I'm dealing with the data in the simplicial complex seems pretty memory ineffecient. My memory access patterns are also horribly ineffecient.
 
 ### Future Work
 
